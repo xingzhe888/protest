@@ -1,0 +1,7 @@
+github test1
+
+git init
+git add .
+git commit -m "full pro"
+git remote add origin https://github.com/xingzhe888/mypro.git
+git push -u origin master
